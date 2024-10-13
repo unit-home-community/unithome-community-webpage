@@ -1,0 +1,8 @@
+baseURL: https://unithome.community/
+languageCode: en-us
+title: UnitHome.community
+theme: ["PaperMod"]
+
+params:
+  font_css:
+    - css/font.css
