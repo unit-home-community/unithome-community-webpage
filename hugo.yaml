@@ -1,6 +1,6 @@
-baseURL: https://unithome.community/
+baseURL: https://wiki.unithome.community/
 languageCode: en-us
-title: UnitHome.community
+title: UnitHome Wiki
 theme: ["PaperMod"]
 
 params:
