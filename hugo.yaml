@@ -1,8 +1,90 @@
-baseURL: https://wiki.unithome.community/
+baseURL: https://wiki.unithome.community/posts/
 languageCode: en-us
 title: UnitHome Wiki
+copyright: "© [UnitHome Community]()"
+paginate: 5
 theme: ["PaperMod"]
 
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts"]
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+defaultContentLanguage: ua
+defaultContentLanguageInSubdir: true
+languages:
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    weight: 1
+    menu:
+      main:
+        - name: Search
+          url: search/
+          weight: 10
+
+    params:
+      subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+
+  ua:
+    contentDir: content/ua
+    disabled: false
+    languageCode: uk-UA
+    languageDirection: ltr
+    weight: 1
+    title: ЮнітХоум Вікі
+    languageName: Українська
+    menu:
+      main:
+        - name: Пошук
+          url: search/
+          weight: 10
+
+    # custom params for each language should be under [langcode].parms - hugo v0.120.0
+    params:
+      languageAltTitle: Українська
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "UnitHome Community Wiki"
+  author: Levko Ivanchuk
+  # author: ["Me", "You"] # multiple authors
   font_css:
     - css/font.css
+
+  editPost:
+    URL: "https://github.com/unit-home-community/unithome-community-webpage/tree/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  defaultTheme: auto
+  disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  comments: true
