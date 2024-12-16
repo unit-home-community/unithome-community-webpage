@@ -7,12 +7,12 @@ weight: 1
 aliases: ["/kte-heat"]
 tags: ["Опалення", "КТЕ", "Тепло", "Лічильник", "Зима"]
 author: ["Назар Гнатів"]
-cover:
-  image: images/kte/KTE_Emblem.png
-  width: 300
-  height: 300
-  hiddenInList: false
-  hiddenInSingle: true
+# cover:
+#   image: images/kte/KTE_Emblem.png
+#   width: 300
+#   height: 300
+#   hiddenInList: false
+#   hiddenInSingle: true
 ---
 
 ## **Загальна інформація про опалення**
