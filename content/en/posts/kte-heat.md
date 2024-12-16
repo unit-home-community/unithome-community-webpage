@@ -9,9 +9,7 @@ tags: ["Heating", "KTE", "Heat", "Meter", "Winter"]
 author: ["Nazar Hnativ"]
 cover:
   image: images/kte/KTE_Emblem.png
-  width: 300
-  height: 300
-  hiddenInList: false
+  hiddenInList: true
   hiddenInSingle: true
 ---
 
