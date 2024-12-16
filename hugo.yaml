@@ -1,5 +1,5 @@
 baseURL: https://wiki.unithome.community/posts/
-languageCode: en-us
+languageCode: uk
 title: UnitHome Wiki
 copyright: "© [UnitHome Community]()"
 paginate: 5
@@ -18,13 +18,13 @@ minify:
   disableXML: true
   minifyOutput: true
 
-defaultContentLanguage: ua
+defaultContentLanguage: uk
 defaultContentLanguageInSubdir: true
 languages:
   en:
     contentDir: content/en
     disabled: false
-    languageCode: en-US
+    languageCode: en
     languageDirection: ltr
     languageName: English
     weight: 1
@@ -34,13 +34,10 @@ languages:
           url: search/
           weight: 10
 
-    params:
-      subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-
-  ua:
-    contentDir: content/ua
+  uk:
+    contentDir: content/uk
     disabled: false
-    languageCode: uk-UA
+    languageCode: uk
     languageDirection: ltr
     weight: 1
     title: UnitHome Вікі
