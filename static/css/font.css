@@ -1,8 +1,8 @@
 /* Define the custom font */
 @font-face {
     font-family: 'UnitFont';
-    src: url('../fonts/UNITFont.woff2') format('woff2'),
-         url('../fonts/UNITFont.woff') format('woff');
+    src: url('../fonts/graphik-regular-desktop.woff2') format('woff2'),
+         url('../fonts/graphik-regular-desktop.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
