@@ -1,7 +1,7 @@
 baseURL: https://wiki.unithome.community/posts/
 languageCode: uk
-title: UnitHome Wiki
-copyright: "© [UnitHome Community]()"
+title: "Unit.Home Wiki"
+copyright: "© [UnitHome Community](mailto:it@unithome.community)"
 paginate: 5
 theme: ["PaperMod"]
 
@@ -40,7 +40,7 @@ languages:
     languageCode: uk
     languageDirection: ltr
     weight: 1
-    title: UnitHome Вікі
+    title: Unit.Home Wiki
     languageName: Українська
     menu:
       main:
@@ -66,10 +66,8 @@ params:
   font_css:
     - css/font.css
 
-  editPost:
-    URL: "https://github.com/unit-home-community/unithome-community-webpage/tree/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  label:
+    icon: apple-touch-icon.png
 
   defaultTheme: auto
   disableThemeToggle: true
