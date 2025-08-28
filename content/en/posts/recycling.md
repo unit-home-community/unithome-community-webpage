@@ -15,7 +15,7 @@ author: ["Nazar Hnativ"]
 #   hiddenInSingle: true
 ---
 
-# Waste Sorting
+## Waste Sorting
 
 At **Unit.Home**, we sort waste ♻️.  
 For your convenience, recycling bins are located on levels -1 and -2 of the parking area.
@@ -48,14 +48,87 @@ Glass should be thoroughly cleaned of any food or liquid residues. For safety, p
 
 ## Plastic
 
-✅ **What to dispose of:**  
-Plastic bottles, containers, food packaging (yogurt cups, juice cartons), plastic bags, bottle caps, straws.
+There are 7 main types of plastic, and 5 of them are generally recyclable. To identify the type, check the packaging for the recycling symbol (triangle with a number 1–7) or letter code.
 
-❌ **What NOT to dispose of:**  
-Plastic items with metal parts or dirty packaging that is difficult to clean.
+✅ PET (01)
 
-✅ **How to pack:**  
-Plastic bottles and containers should be compressed to save space. Bags should be folded or rolled up.
+- Beverage bottles of all colors
+- Cooking oil bottles with caps on
+- Food containers marked PET (clean, dry, no food residue)
+
+![PET (01)](images/recycling/plastics/01-PET.png)
+
+Important!
+
+- Rinse milk drink bottles thoroughly
+- Compress containers to save space
+
+✅ HDPE (02)
+
+- Bottles and flasks for household chemicals and dairy drinks
+- Bottle caps from beverages
+- Crates for vegetables, fruit, or glass bottles
+- Polyethylene bags marked HDPE-2
+
+![HDPE (02)](images/recycling/plastics/02-HDPE.png)
+
+✅ LDPE (04)
+
+- Commercial films (stretch film, bubble wrap, zip-bags without slider, hygiene product overwrap)
+- Polyethylene carrier bags of all sizes and colors
+
+![LDPE (04)](images/recycling/plastics/04-LDPE.png)
+
+Important!
+
+- Remove stickers, tape, labels, and other attachments from bags and films
+- Polyethylene bags must be clean and dry
+
+✅ PP (05)
+
+- Reusable food containers
+- Containers for household chemicals
+- Buckets, basins
+
+![PP (05)](images/recycling/plastics/05-PP.png)
+
+✅ PS (06)
+
+- Takeaway food containers
+- Disposable tableware (clean, dry)
+- Cup lids
+
+![PS (06)](images/recycling/plastics/06-PS.png)
+
+✅ Composite packaging C/PAP (81–84)
+
+- Cartons from juices and dairy (Tetra Pak, Pure-Pak, Elo-Pak)
+- Pringles tubes, Nutrilon dry mix containers
+- Paper coffee/juice cups (e.g., McDonald’s)
+
+❌ What NOT to dispose of:
+
+- Dirty or greasy food packaging
+- Plastic without markings
+- Any items made of PVC (03), CPE, or PE-C — these contain chlorine and release toxic compounds when heated; recycling and incineration are unsafe and unavailable
+- Plastic items with metal parts
+- Packaging with combined “/” markings like c/pp, c/ldpe, C/pap, C/ldpe, c/hdpe (e.g., mayonnaise pouches)
+- Vacuum food packaging (sausages, cheese, smoked fish)
+- Flexible coffee or pet food packaging
+- Tape or labels
+
+✅ How to pack:
+
+- Compress bottles and containers to save space; fold or roll bags
+
+## Aluminum Cans
+
+- Beverage cans, pet food cans, etc.
+
+Important!
+
+- You can place these in the plastic container
+- The sorting facility will separate them during downstream processing
 
 ## General Tips
 
@@ -91,7 +164,7 @@ Following these simple rules will help efficiently and compactly pack waste and 
 
 Recyclable materials sorted into green bins are collected by the specialized company **PP "Obukhivmiskvtorresursy"**, with whom the management company has a formal contract.
 
-# Non-Sorted Waste
+## Non-Sorted Waste
 
 For unsorted household waste, five large underground containers are located at the corners between buildings **A07** and **A05**.
 
