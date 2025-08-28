@@ -2,7 +2,8 @@ baseURL: https://wiki.unithome.community/posts/
 languageCode: uk
 title: "Unit.Home Wiki"
 copyright: "© [UnitHome Community](mailto:it@unithome.community)"
-paginate: 5
+pagination:
+   pagerSize: 5
 theme: ["PaperMod"]
 
 enableInlineShortcodes: true
